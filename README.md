@@ -4,7 +4,7 @@
 
 # 🏦 Suprema Bank — Pipeline ETL
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1E90FF&center=true&width=500&lines=Dados+bru%CC%82tos+entram.+Insights+saem.;Do+SQL+ao+CSV%2C+sem+enrolac%CC%A7a%CC%83o.;ETL+de+verdade%2C+na+pra%CC%81tica.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1E90FF&center=true&width=500&lines=Dados+brutos+entram.+Insights+saem.;Do+SQL+ao+CSV%2C+sem+enrolac%CC%A7a%CC%83o.;ETL+de+verdade%2C+na+pra%CC%81tica.)](https://git.io/typing-svg)
 
 </div>
 
